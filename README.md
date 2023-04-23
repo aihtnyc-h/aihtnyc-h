@@ -20,12 +20,13 @@ E-mail: feiver@naver.com
 Blog: [https://aihtnyc-h.tistory.com/]
 
 Instargam : [https://www.instagram.com/aihtnyc_h/]
-![spring](https://user-images.githubusercontent.com/111184537/233821667-6d241e6a-4a93-473b-9391-92dbb4d44f94.svg)
 
 🛠 Stacks
 Back-End
 	<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/Spring-007396?style=flat&logo=Java&logoColor=white" />
+
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
