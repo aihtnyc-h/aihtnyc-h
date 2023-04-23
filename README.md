@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-💬 ##Introduction
+💬 Introduction
 
 안녕하세요! 주니어 백엔드 개발자입니다.
 현재는 공부를 하면서 취업을 준비하고 있습니다.
 
-📬 #Contact
+📬 Contact
 E-mail: feiver@naver.com
 
 Blog: [https://aihtnyc-h.tistory.com/]
 
 Instargam : [https://www.instagram.com/aihtnyc_h/]
 
-🛠 #Tech Stacks
+🛠 Tech Stacks
 	<div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Java&logoColor=white" />
@@ -55,6 +55,6 @@ Instargam : [https://www.instagram.com/aihtnyc_h/]
 </div>
      
 
-#Hyunah Park's GitHub stats
+Hyunah Park's GitHub stats
 
 ![Hyunah Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihtnyc-h&show_icons=true&theme=radical)
