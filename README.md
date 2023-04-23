@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+💬 Introduction
+안녕하세요! 주니어 백엔드 개발자입니다.
+현재는 공부를 하면서 취업을 준비하고 있습니다.
+
 📬 Contact
 E-mail: feiver@naver.com
 
@@ -51,6 +55,6 @@ Instargam : [https://www.instagram.com/aihtnyc_h/]
 </div>
      
 
-Hyunah's GitHub stats
+Hyunah Park's GitHub stats
 
-![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihtnyc-h&show_icons=true&theme=radical)
+![Hyunah Park's GitHub stats](https://github-readme-stats.vercel.app/api?username=aihtnyc-h&show_icons=true&theme=radical)
